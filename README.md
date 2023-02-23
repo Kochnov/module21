@@ -2,7 +2,7 @@
 Advanced Solidity
 
 KaseiCoin
-![alt=“”](kaseCoin.jpg)
+![alt=“”](kaseiCoin.jpg)
 
 KaseiCoinCrowdsale
 ![alt=“”](KaseiCoinCrowdsale.jpg)
